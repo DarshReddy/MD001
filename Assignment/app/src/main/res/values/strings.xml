@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="movie_list">Movie List</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="movie_background">Movie Background</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="year">Year</string>
+    <string name="_66_user_score">66% User Score</string>
+    <string name="play_trailer">Play Trailer</string>
+</resources>
