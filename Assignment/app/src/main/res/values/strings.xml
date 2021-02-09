@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Assignment</string>
-    <string name="movie_list">Movie List</string>
+    <string name="movie_list">Movies List</string>
     <string name="title">Title</string>
     <string name="description">Description</string>
     <string name="movie_background">Movie Background</string>
@@ -8,4 +8,8 @@
     <string name="year">Year</string>
     <string name="_66_user_score">66% User Score</string>
     <string name="play_trailer">Play Trailer</string>
+    <string name="enter_search_key">enter search key</string>
+    <string name="search">Search</string>
+    <string name="imdb_rating">IMDB Rating</string>
+    <string name="genre">Genre</string>
 </resources>
